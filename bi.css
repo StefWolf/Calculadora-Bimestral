@@ -1,0 +1,73 @@
+.corpo_tri{
+    background-image: url("fundo.jpg");
+    background-size: 1600px 800px;
+    cursor: url("https://pngimage.net/wp-content/uploads/2018/06/lapis-icone-png-2.png"), auto;
+}
+.oclock{
+    background-color: rgb(25, 9, 114);
+    width: 600px;
+    height: 450px;
+   
+}
+#nome{
+    width: 300px;
+    background-color: rgb(16, 2, 80);
+    border-color: rgb(23, 6, 63);
+    border-width: 0px;
+    height: 30px;
+}
+#input-1{
+    width: 50px;
+    background-color: rgb(16, 2, 80);
+    border-color:  rgb(23, 6, 63);
+    border-width: 0px;
+    height: 30px;
+}
+#input-2{
+    width: 50px;
+    background-color: rgb(16, 2, 80);
+    border-color:  rgb(23, 6, 63);
+    border-width: 0px;
+    height: 30px;
+}
+#input-3{
+    width: 50px;
+    background-color: rgb(16, 2, 80);
+    border-color:  rgb(23, 6, 63);
+    border-width: 0px;
+    height: 30px;
+}
+#input-4{
+    width: 50px;
+    background-color: rgb(16, 2, 80);
+    border-color:  rgb(23, 6, 63);
+    border-width: 0px;
+    height: 30px;
+}
+#salvar{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(192, 38, 38);
+    border-width: 0px;
+
+}
+#salvar:active{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(133, 32, 32);
+    border-width: 0px;
+
+}
+#registro{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(192, 38, 38);
+    border-width: 0px;
+}
+#registro:active{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(133, 32, 32);
+    border-width: 0px;
+}
+
